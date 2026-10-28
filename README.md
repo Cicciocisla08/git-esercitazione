@@ -1,0 +1,1 @@
+Esercitazione con i comandi per git
